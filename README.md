@@ -27,9 +27,9 @@ Then, I am curious about whether the program enhanced the safety in the safety z
 
 ![Pic3](image/Refer.png)
 
-The results show that the fatal or serious injury crashes decreased 9% near speed cameras, compared to 6% increase citywide and overall crashes have increased 1% in the automated speed enforcement locations compared to a 21% increase in crashes citywide from 2012-13 to 2014-16 period[(Source)](https://www.chicago.gov/content/dam/city/depts/cdot/CSZ/ASE_CrashAnalysisWriteUp_10_10_18.pdf).
+The results show that the fatal or serious injury crashes decreased 9% near speed cameras, compared to 6% increase citywide and overall crashes have increased 1% in the automated speed enforcement locations compared to a 21% increase in crashes citywide from 2012-13 to 2014-16 period[(Citation)](https://www.chicago.gov/content/dam/city/depts/cdot/CSZ/ASE_CrashAnalysisWriteUp_10_10_18.pdf).
 
-Then I found another resource --List of Activated Speed Cameras and Enforcement Schedule from Chicago government website[(Source)]( https://www.chicago.gov/content/dam/city/depts/cdot/Red%20Light%20Cameras/2018/Chicago_Active_Camera_Schedule_090518.pdf
+Then I found another resource --List of Activated Speed Cameras and Enforcement Schedule from Chicago government website[(Data Source)]( https://www.chicago.gov/content/dam/city/depts/cdot/Red%20Light%20Cameras/2018/Chicago_Active_Camera_Schedule_090518.pdf
 ). I merged this dataset with my original dataset by Camera ID. In this dataset, I summarized the new cameras launching year as follow:
 
 ![Pic4](image/Refer2.png)
@@ -73,7 +73,7 @@ Firstly, I plotted a map of violations with Household income:
 
 However, we can’t see a clear relationship between Household income and violations, thus we can’t give useful advice. 
 
-Then, I found the lastest Census data of Chicago and merged it into my original dataset by Community Areas[Data source](https://datahub.cmap.illinois.gov/dataset/2010-census-data-summarized-to-chicago-community-areas/resource/b30b47bf-bb0d-46b6-853b-47270fb7f626). And I got the Races, Ethnicity, Ages and Household information for each community areas. And then I made bins for age to see which generation’s living area are most likely to have violations. The result is community areas which have a median age of 30 years old, are most likely to occur speed violations.
+Then, I found the lastest Census data of Chicago and merged it into my original dataset by Community Areas[(Data source)](https://datahub.cmap.illinois.gov/dataset/2010-census-data-summarized-to-chicago-community-areas/resource/b30b47bf-bb0d-46b6-853b-47270fb7f626). And I got the Races, Ethnicity, Ages and Household information for each community areas. And then I made bins for age to see which generation’s living area are most likely to have violations. The result is community areas which have a median age of 30 years old, are most likely to occur speed violations.
 
 ![Pic9](image/New3.png)
 
