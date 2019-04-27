@@ -29,7 +29,7 @@ Then, I am curious about whether the program enhanced the safety in the safety z
 
 The results show that the fatal or serious injury crashes decreased 9% near speed cameras, compared to 6% increase citywide and overall crashes have increased 1% in the automated speed enforcement locations compared to a 21% increase in crashes citywide from 2012-13 to 2014-16 period[(Source)](https://www.chicago.gov/content/dam/city/depts/cdot/CSZ/ASE_CrashAnalysisWriteUp_10_10_18.pdf).
 
-Then I found another resource --List of Activated Speed Cameras and Enforcement Schedule from Chicago government website.[(Source)]( https://www.chicago.gov/content/dam/city/depts/cdot/Red%20Light%20Cameras/2018/Chicago_Active_Camera_Schedule_090518.pdf
+Then I found another resource --List of Activated Speed Cameras and Enforcement Schedule from Chicago government website[(Source)]( https://www.chicago.gov/content/dam/city/depts/cdot/Red%20Light%20Cameras/2018/Chicago_Active_Camera_Schedule_090518.pdf
 ). I merged this dataset with my original dataset by Camera ID. In this dataset, I summarized the new cameras launching year as follow:
 
 ![Pic4](image/Refer2.png)
@@ -57,11 +57,11 @@ Firstly, I draw a graph to show the top 10 address and Camera ID with the most n
 
 But I then noticed that it is better to give a more specific view of the zones because the cameras are set by zone, not just streets. And the size and color are confusing. 
 
-I merged the original dataset with List of Activated Speed Cameras and Enforcement Schedule from Chicago government to get the Zone information. And since I want to see the impact and change of camera in these zones. I added a calculator field to compute the difference on violations between 2015 and 2018. And I used a Parameter with sets to filter the top 10 increased zones as well as top 10 decreased zones. There are only two colors to distinguish increasing and decreasing.
+I merged the original dataset with List of Activated Speed Cameras and Enforcement Schedule[(Data source)](https://www.chicago.gov/content/dam/city/depts/cdot/Red%20Light%20Cameras/2018/Chicago_Active_Camera_Schedule_090518.pdf) from Chicago government to get the Zone information. And since I want to see the impact and change of camera in these zones. I added a calculator field to compute the difference on violations between 2015 and 2018. And I used a Parameter with sets to filter the top 10 increased zones as well as top 10 decreased zones. There are only two colors to distinguish increasing and decreasing.
 
 ![Pic7](image/New2.png)
 
-And as the government site cited, “Further, the City is capping the locations where speed cameras can be installed to 20% of the 1,500 safety zone locations allowed by state law (approximately 300) “[(Source)](https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html), I would recommend installing more in Top 10 Zones with Red Color. These zones will catch more violations in the future and increasing government income.
+And as the government site cited, “Further, the City is capping the locations where speed cameras can be installed to 20% of the 1,500 safety zone locations allowed by state law (approximately 300) “[(Citation)](https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html), I would recommend installing more in Top 10 Zones with Red Color. These zones will catch more violations in the future and increasing government income.
 
 ### 3. Violation Insights by Generation
 
