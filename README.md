@@ -85,6 +85,14 @@ This result gives us a hint that we should educate more on these middle age area
 
 ## [Tableau Link](https://public.tableau.com/profile/nina.zou#!/vizhome/FirstVision/Top10AreaswithSignificateChanges)
 
+
+## 4.Suggestions for Government focus in the future
+
+1.	Continue the Children's Safety Zone Program & Automated Speed Enforcement yearly.
+2.	Check the road signs/camera warnings in Washington Park, Keystone Park, Gary Comer High School, Columbus Park, Near North Montessori School, Park 499, Chicago Vocational HS, Jones College Prep HS. Investigate the reason for increasing violations in those zones. Add new cameras near those zones.
+3.	Launch preventive education program in community areas with a median age of 30, including violation drivers’ information in the data collecting process
+
+
 ## References
 
 1. City of Chicago. (2018), Chicago Automated Speed Enforcement Camera Before and After Safety Impact Analysis. Retrieved from https://www.chicago.gov/content/dam/city/depts/cdot/CSZ/ASE_CrashAnalysisWriteUp_10_10_18.pdf
