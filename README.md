@@ -43,7 +43,7 @@ The final visualization is:
 
 ![Pic5](image/New1.png)
 
-From the research and my final visualization, we can conclude that **this program is effective because the new cameras are increasing, however the violations caught by cameras are decreasing.**
+From the research and my final visualization, we can conclude that **this program is effective because the new cameras are increasing, while the violations caught by cameras are decreasing.**
 
 These data provide strong support for my visualization’s augment—The Children’s Safety Zone Program is essential and useful, it helps to warn the drivers to obey the traffic rules for speed as well as protect bicycle pedestrian from injured by speed violations.
 
@@ -89,7 +89,7 @@ This result gives us a hint that we should educate more on these middle age area
 ## 4.Suggestions for Government focus in the future
 
 1.	Continue the Children's Safety Zone Program & Automated Speed Enforcement yearly.
-2.	Check the road signs/camera warnings in Washington Park, Keystone Park, Gary Comer High School, Columbus Park, Near North Montessori School, Park 499, Chicago Vocational HS, Jones College Prep HS. Investigate the reason for increasing violations in those zones. Add new cameras near those zones.
+2.	Check the road signs/camera warnings in Mulberry Park, Hiawatha Park, Washington Park, Keystone Park, Gary Comer High School, Columbus Park, Near North Montessori School, Park 499, Chicago Vocational HS, Jones College Prep HS. Investigate the reason for increasing violations in those zones. Add new cameras near those zones.
 3.	Launch preventive education program in community areas with a median age of 30, including violation drivers’ information in the data collecting process
 
 
