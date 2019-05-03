@@ -73,7 +73,7 @@ Firstly, I plotted a map of violations with Household income:
 
 However, we can’t see a clear relationship between Household income and violations, thus we can’t give useful advice. 
 
-Then, I found the lastest Census data of Chicago and merged it into my original dataset by Community Areas[(Data source)](https://datahub.cmap.illinois.gov/dataset/2010-census-data-summarized-to-chicago-community-areas/resource/b30b47bf-bb0d-46b6-853b-47270fb7f626). And I got the Races, Ethnicity, Ages and Household information for each community areas. And then I made bins for age to see which generation’s living area are most likely to have violations. The result is community areas which have a median age of 30 years old, are most likely to occur speed violations.
+Then, I found the latest Census data of Chicago and merged it into my original dataset by Community Areas[(Data source)](https://datahub.cmap.illinois.gov/dataset/2010-census-data-summarized-to-chicago-community-areas/resource/b30b47bf-bb0d-46b6-853b-47270fb7f626). And I got the Races, Ethnicity, Ages and Household information for each community areas. And then I made bins for age to see which generation’s living area are most likely to have violations. The result is community areas which have a median age of 30 years old, are most likely to occur speed violations.
 
 ![Pic9](image/New3.png)
 
@@ -97,7 +97,7 @@ This result gives us a hint that we should educate more on these middle age area
 
 1. City of Chicago. (2018), Chicago Automated Speed Enforcement Camera Before and After Safety Impact Analysis. Retrieved from https://www.chicago.gov/content/dam/city/depts/cdot/CSZ/ASE_CrashAnalysisWriteUp_10_10_18.pdf
 
-2. Cith of Chicago. (2018). List of Activated Speed Cameras and Enforcement Schedule. Retrieved from https://www.chicago.gov/content/dam/city/depts/cdot/Red%20Light%20Cameras/2018/Chicago_Active_Camera_Schedule_090518.pdf
+2. City of Chicago. (2018). List of Activated Speed Cameras and Enforcement Schedule. Retrieved from https://www.chicago.gov/content/dam/city/depts/cdot/Red%20Light%20Cameras/2018/Chicago_Active_Camera_Schedule_090518.pdf
 
 3. City of Chicago. (2019). Children's Safety Zone Program & Automated Speed Enforcement. Retrieved from   https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html
 
