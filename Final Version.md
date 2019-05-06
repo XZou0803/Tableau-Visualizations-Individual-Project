@@ -13,14 +13,21 @@ This documentation is the report for the mayor of Chicago. The goal is to summar
 
 ## 2. Developing Process
 
-### 1.	Data Exploration
+<details>
+           <summary>Data Exploration</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
+
 •	Literature preparation: Search documents for this program and the demographic information of Chicago
 
 •	Data preparation: Download the data from Chicago government websites, merge the useful datasets and aggregate the demographic features to the final dataset using Python and Excel
 
 •	Using Tableau to visualize the final dataset into five different visualization works, the works are from different aspects of the data, this helps us better understand the data
-
-### 2.	First Version
+	
+<details>
+           <summary>First Version</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
 •	Find the three interesting aspects from five data exploration works
 
 •	Document the ‘making-of’ to the Mayor of Chicago
@@ -29,7 +36,11 @@ This documentation is the report for the mayor of Chicago. The goal is to summar
 
 •	Suggestions and Limitations
 
-### 3.	Final Version
+
+<details>
+           <summary>Final Version</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
 •	Refine the first version of visualizations
 
 •	A dashboard to illustrate my findings
