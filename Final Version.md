@@ -28,6 +28,7 @@ This documentation is the report for the mayor of Chicago. The goal is to summar
            <summary>First Version</summary>
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
          </details>
+	 
 •	Find the three interesting aspects from five data exploration works
 
 •	Document the ‘making-of’ to the Mayor of Chicago
@@ -41,6 +42,7 @@ This documentation is the report for the mayor of Chicago. The goal is to summar
            <summary>Final Version</summary>
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
          </details>
+	 
 •	Refine the first version of visualizations
 
 •	A dashboard to illustrate my findings
