@@ -11,4 +11,5 @@ This documentation includes:
 1. First Version
 2. Final Version
 
+[Link of the Dashboard](https://public.tableau.com/profile/nina.zou#!/vizhome/FinalVision/ViolationsTrendovertheYears)
 Connect the author: xzou@scu.edu
