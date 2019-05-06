@@ -105,7 +105,7 @@ Then I found another resource --List of Activated Speed Cameras and Enforcement 
 
 ![Pic6](image/finalref.png)
 
-From the research and my final visualization, we can conclude that this program is effective because the new cameras are increasing, while the violations caught by cameras are decreasing.
+From the research and my final visualization, we can conclude that **this program is effective because the new cameras are increasing, while the violations caught by cameras are decreasing.**
 These data provide strong support for my visualization’s augment—The Children’s Safety Zone Program is essential and useful, it helps to warn the drivers to obey the traffic rules for speed as well as protect bicycle pedestrian from injured by speed violations.
 
 ### 2. Areas with Significate Changes
@@ -143,7 +143,7 @@ For the first version, we want to show the location more specifically, rather th
 
 The first version gives us a basic understanding for the zones with significant changes during camera on-live years. However, we can refine this visualization better.
 1.	Picked up the two zones with the most significant changes and highlight them
-2.	Reduced the top 10 to 6 for each direction. The reason for this is only the top 1 zone have a great change (more than twice) comparing the other zones, besides, the graph is better fit the screen, the reader doesn’t need to scroll the screen to check the top 1 zone which they are most interested in. 
+2.	Reduced the top 10 to 6 for each direction. The reason for this is only the top 1 zone have a great change (more than twice) comparing the other zones, besides, the graph is better fit the screen, the reader doesn’t need to scroll the screen to check the top/bottom one zone which they are most interested in. 
 3.	Added Caption to describing the visualization
 4.	Bolded the title for better use in dashboard
 
@@ -212,7 +212,7 @@ For a better reading experience, I made some improvements:
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
          </details>
 
-This result gives us a hint that we should educate more on these middle age areas to reduce the speed violations. And since the limitation of the data, we can’t get more demographic information about the drivers, I recommend including information of drivers who have violated the speed limit rules and launch a preventive education.
+This result gives us a hint that we should educate more on the middle age of 30 areas to reduce the speed violations. And since the limitation of the data, we can’t get more demographic information about the drivers, I recommend including information of drivers who have violated the speed limit rules and launch a preventive education.
 
 ## 4.  Dashboard
 <details>
@@ -230,7 +230,7 @@ This result gives us a hint that we should educate more on these middle age area
 The improvements:
 1.	Changed the layout of the dashboard, according to people’s reading habit (from left to right, from top to bottom) for better understanding
 2.	Added a title for the dashboard
-3.	Deleted some useless discretional box and only left the year filter box
+3.	Deleted some useless discretional box to make the board clean
 4.	Added interactive actions—filter and apply it to selected sheets
 5.	Added interactive actions—Go to Sheet, when the reader is viewing the violation trend over years graph, they can select to go to the reference sheet (New camera on-live summary)
 6.	Added actions—Go to URL, the reader can view the whole project documentation in GitHub.
